@@ -1,2 +1,2 @@
-# cloud-architect-portfolio
-cloud-architect-portfolio
+# omkar-platform-ai-portfolio
+omkar-platform-ai-portfolio
